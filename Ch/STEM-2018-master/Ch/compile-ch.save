@@ -1,0 +1,3 @@
+rm /media/lexar-usb/Programming/Ch/STEM-2018-master/Ch/FindSlope.c
+cp  /media/lexar-usb/Programming/Ch/STEM-2018-master/Ch/FindSlope.ch /media/lexar-usb/Programming/Ch/STEM-2018-master/ChFindSlope.c
+gcc /media/lexar-usb/Programming/Ch/STEM-2018-master/Ch/FindSlope.c -o /media/lexar-usb/Programming/Ch/STEM-2018-master/Ch/a.out
